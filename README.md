@@ -1,2 +1,2 @@
 # EventRegistrationBackend
-Backend for Even registration app
+Backend for event registration app
